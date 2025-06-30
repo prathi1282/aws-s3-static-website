@@ -15,3 +15,15 @@ This project hosts a simple static website using *Amazon S3*. It includes basic 
 
 ## Author
 Prathiksha Marati
+## Screenshots
+### bucket_creation.png
+![bucket_creation](screenshots/bucket_creation.png)
+
+### upload_index_html.png
+![upload_index_html](screenshots/upload_index_html.png)
+
+### static_hosting_config.png
+![static_hosting_config](screenshots/static_hosting_config.png)
+
+### website_output.png
+![website_output](screenshots/ website_output.png)
